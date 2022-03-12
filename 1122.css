@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-color: black;
+
+}
+a {
+    border-radius: 25px;
+    background-color: #ffff5f;
+    color: black;
+    padding: 14px 25px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+span {
+    color: yellow;
+}
+a:hover,a:active {
+    background-color: yellow;
+}
